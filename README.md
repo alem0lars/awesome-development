@@ -8,7 +8,8 @@ The difference here is that **I don't care to provide different alternatives, I 
 
 ## Table of Contents
 
-* [Ruby](./contents/ruby.md).
+* [Ruby](./contents/ruby.md)
+* [Android](./contents/android.md)
 
 ## License
 

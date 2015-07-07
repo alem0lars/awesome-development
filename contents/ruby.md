@@ -2,49 +2,49 @@
 
 A carefully selected list of Ruby libraries, frameworks, tools.
 
-### Extensions
+## Extensions
 
 * [**facets**](https://github.com/rubyworks/facets): The premiere collection of general purpose method extensions and standard additions for the Ruby programming language.
 * [**hashie**](https://github.com/intridea/hashie): Hashie is a collection of classes and mixins that make hashes more powerful.
 
-### Functional style
+## Functional style
 
 * [**deterministic**](https://github.com/pzol/deterministic): Provides a lot of monads; the successor of the Monadic gem.
 
-### PubSub / Reactive
+## PubSub / Reactive
 
 * [**wisper**](https://github.com/krisleech/wisper): A micro library providing Ruby objects with Publish-Subscribe capabilities.
 
-### FSM
+## FSM
 
 * [**finite_machine**](https://github.com/peter-murach/finite_machine): A minimal finite state machine with a straightforward syntax.
 
-### Concurrency
+## Concurrency
 
 * [**concurrent-ruby**](https://github.com/ruby-concurrency/concurrent-ruby): Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.
 
-### Git
+## Git
 
 * [**rugged**](https://github.com/libgit2/rugged): Ruby bindings to libgit2.
 
-### CLI
+## CLI
 
 * [**cocaine**](https://github.com/thoughtbot/cocaine): A small library for doing (command) lines.
 
-### Errors
+## Errors
 
 * [**errbit**](https://github.com/errbit/errbit): The open source error catcher that's Airbrake API compliant.
 
-### Debugging
+## Debugging
 
 * [**byebug**](https://github.com/deivid-rodriguez/byebug): Debugging in Ruby 2.
 * [**awesome_print**](https://github.com/michaeldv/awesome_print): Pretty print your Ruby objects with style - in full color and with proper indentation .
 
-### Dependencies management
+## Dependencies management
 
 * [**bundler**](https://github.com/bundler/bundler): Manage your application's gem dependencies with less pain .
 
-### Packaging
+## Packaging
 
 * [**fpm**](https://github.com/jordansissel/fpm): Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 

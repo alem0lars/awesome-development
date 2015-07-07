@@ -6,4 +6,4 @@
 
 ## Charts
 
-* [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart): A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.
+* [**MPAndroidChart**](https://github.com/PhilJay/MPAndroidChart): A powerful Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, dragging and animations.

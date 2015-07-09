@@ -12,6 +12,7 @@ The difference here is that **I don't care to provide different alternatives, I 
 
   * [Ruby](./contents/ruby.md)
   * [Android](./contents/android.md)
+  * [C++](./contents/c++.md)
 
 * [Online Services](./contents/online_services.md)
 

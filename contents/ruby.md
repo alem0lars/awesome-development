@@ -67,24 +67,22 @@ A carefully selected list of Ruby libraries, frameworks, tools.
 * [**yard**](https://github.com/lsegal/yard): YARD is a Ruby Documentation tool. The Y stands for "Yay!".
 * [**yard-contracts**](https://github.com/sfcgeorge/yard-contracts): YARD Plugin for Automatic Param Docs from Contracts.
 
-## Tools
-
-### Interpreters
+## REPL
   
 * [**pry**](https://github.com/pry/pry): An IRB alternative and runtime developer console.
 * [**pry-byebug**](https://github.com/deivid-rodriguez/pry-byebug): Pry navigation commands via byebug.
 
-### Linters
+## Checkers / Linters
 
 * [**rubocop**](https://github.com/bbatsov/rubocop): A Ruby static code analyzer, based on the community Ruby style guide.
 * [**rubocop-rspec**](https://github.com/nevir/rubocop-rspec): Code style checking for RSpec files.
 
-### Code coverage
+## Code coverage
 
 * [**simplecov**](https://github.com/colszowka/simplecov): Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites.
 * [**codeclimate-test-reporter**](https://github.com/codeclimate/ruby-test-reporter): Uploads Ruby test coverage data to Code Climate.
 
-### Automation
+## Automation
 
 * [**guard**](https://github.com/guard/guard): Guard is a command line tool to easily handle events on file system modifications. 
 * [**guard-rspec**](https://github.com/guard/guard-rspec): Guard::RSpec automatically run your specs.

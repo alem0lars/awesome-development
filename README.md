@@ -11,6 +11,7 @@ The difference here is that **I don't care to provide different alternatives, I 
 * Langs
 
   * [Ruby](./contents/ruby.md)
+  * [Python](./contents/python.md)
   * [Android](./contents/android.md)
   * [C++](./contents/c++.md)
 

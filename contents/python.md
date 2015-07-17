@@ -24,6 +24,8 @@
   Library for building powerful interactive command lines in Python.
 * [**colorama**](https://github.com/tartley/colorama): Simple cross-platform
   colored terminal text in Python.
+* [**termcolor**](https://pypi.python.org/pypi/termcolor): ANSII Color
+  formatting for output in terminal.
 * [**urwid**](https://github.com/wardi/urwid): Console user interface library
   for Python.
 * [**docopt**](https://github.com/docopt/docopt): Command-line interface

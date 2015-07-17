@@ -22,12 +22,17 @@
 
 * [**python-prompt-toolkit**](https://github.com/jonathanslenders/python-prompt-toolkit):
   Library for building powerful interactive command lines in Python.
+* [**python-inquirer**](https://github.com/magmax/python-inquirer): A collection
+  of common interactive command line user interfaces, based on Inquirer.js.
+
 * [**colorama**](https://github.com/tartley/colorama): Simple cross-platform
   colored terminal text in Python.
 * [**termcolor**](https://pypi.python.org/pypi/termcolor): ANSII Color
   formatting for output in terminal.
+
 * [**urwid**](https://github.com/wardi/urwid): Console user interface library
   for Python.
+
 * [**docopt**](https://github.com/docopt/docopt): Command-line interface
   description language.
 

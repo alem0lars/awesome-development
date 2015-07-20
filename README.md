@@ -15,6 +15,7 @@ The difference here is that **I don't care to provide different alternatives, I 
   * [Android](./contents/android.md)
   * [C++](./contents/c++.md)
 
+* [Fonts](./contents/fonts.md)
 * [Online Services](./contents/online_services.md)
 
 ## License

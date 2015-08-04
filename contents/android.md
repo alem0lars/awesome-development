@@ -6,7 +6,7 @@
 
 ## UI
 
-### ViewPager-related
+### `ViewPager`-related
 
 * [**SmartTabLayout**](https://github.com/ogaclejapan/SmartTabLayout): A custom ViewPager title strip which gives continuous feedback to the user when scrolling.
 

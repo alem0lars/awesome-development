@@ -18,6 +18,7 @@ The difference here is that **I don't care to provide different alternatives, I 
 
 * [Fonts](./contents/fonts.md)
 * [Online Services](./contents/online_services.md)
+* [Miscellaneous](./contents/misc.md)
 
 ## License
 

@@ -9,10 +9,11 @@ The difference here is that **I don't care to provide different alternatives, I 
 ## Table of Contents
 
 * Programming Languages / Technologies
+  * [C](./contents/c.md)
+  * [C++](./contents/c++.md)
   * [Ruby](./contents/ruby.md)
   * [Python](./contents/python.md)
   * [Android](./contents/android.md)
-  * [C++](./contents/c++.md)
   * [Web](./contents/web.md)
 * [Fonts](./contents/fonts.md)
 * [Online Services](./contents/online_services.md)

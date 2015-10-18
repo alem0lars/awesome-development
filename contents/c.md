@@ -8,6 +8,10 @@
 
 - [`uncrustify`](https://github.com/bengardner/uncrustify): Highly configurable C code formatter.
 
+## Documentation tools
+
+- [`global`](https://www.gnu.org/software/global): Source code tagging system that works the same way across diverse environments.
+
 ## Analysis tools
 
 ### Static

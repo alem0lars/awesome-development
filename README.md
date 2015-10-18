@@ -8,14 +8,12 @@ The difference here is that **I don't care to provide different alternatives, I 
 
 ## Table of Contents
 
-* Langs
-
+* Programming Languages / Technologies
   * [Ruby](./contents/ruby.md)
   * [Python](./contents/python.md)
   * [Android](./contents/android.md)
   * [C++](./contents/c++.md)
   * [Web](./contents/web.md)
-
 * [Fonts](./contents/fonts.md)
 * [Online Services](./contents/online_services.md)
 * [Miscellaneous](./contents/misc.md)
